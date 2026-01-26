@@ -6,6 +6,9 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Lap1/lap1.unity
-    guid: 2cda990e2423bbf4892e6590ba056729
+    path: Assets/Lap c4/Intro Cutscene Game/Intro Cutscene Game.unity
+    guid: 7feaef46f96ada6439d3e1501ce54680
+  - enabled: 1
+    path: Assets/Lap c4/Intro Cutscene Game/Game.unity
+    guid: 5fcf8fb87db46a84f98b5db8c5c34d90
   m_configObjects: {}
